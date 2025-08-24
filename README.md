@@ -12,6 +12,6 @@ Search
 Ai chat bot, Certificate generator not added.
 
 Admin credentials:
-mahdikhan.chowdhury@gmail.com
-admin123
+email: mahdikhan.chowdhury@gmail.com
+pass: admin123
 
